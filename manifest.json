@@ -1,0 +1,10 @@
+{
+    "id": "web-search-plugin",
+    "name": "Web Search",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "在Obsidian中进行简单的网络搜索",
+    "author": "Canta Tam",
+    "authorUrl": "https://space.bilibili.com/391504171",
+    "isDesktopOnly": false
+}
