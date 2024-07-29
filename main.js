@@ -325,7 +325,7 @@ class WebSearchSettingTab extends PluginSettingTab {
         .setCta()
         .onClick(() => {
             if (Platform.isDesktop) {
-                require('electron').shell.openExternal('https://www.bilibili.com');
+                require('electron').shell.openExternal('https://www.bilibili.com/video/BV1KPvNeuECD');
             } else {
                 window.open('https://www.bilibili.com', '_blank');
             }
